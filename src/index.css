@@ -53,7 +53,7 @@ main {
 }
 .block {
   border-radius: 15px;
-  padding: 15px;
+  /* padding: 15px; */
   font-size: 18px;
 }
 .block2 {
@@ -145,8 +145,11 @@ button {
 @media screen and (max-width: 390px) {
   main {
     grid-template-columns: 1fr;
-    /* justify-content: center; */
     width: 85%;
+  }
+  .main{
+    padding: 20px;
+
   }
   .products {
     height: 300px;
@@ -158,5 +161,57 @@ button {
 
   .router {
     width: 96%;
+  }
+  .block2{
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  main {
+    grid-template-columns: 1fr;
+    width: 85%;
+  }
+  .main{
+    padding: 20px;
+
+  }
+  .products {
+    height: 300px;
+    width: 300px;
+  }
+  .products img {
+    height: 220px;
+  }
+
+  .router {
+    width: 96%;
+  }
+  .block2{
+    margin: 10px;
+  }
+}
+@media screen and (max-width: 350px) {
+  main {
+    grid-template-columns: 1fr;
+    width: 85%;
+  }
+  .main{
+    padding: 20px;
+
+  }
+  .products {
+    height: 300px;
+    width: 300px;
+  }
+  .products img {
+    height: 220px;
+  }
+
+  .router {
+    width: 96%;
+  }
+  .block2{
+    margin: 10px;
   }
 }
