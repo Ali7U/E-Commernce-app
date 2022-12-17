@@ -18,14 +18,15 @@ nav {
   height: 75px;
   border-bottom: 2px solid #b6ad90;
   border-radius: 0 0 15px 15px;
-  z-index: -1;
-  overflow:inherit;
+  position: fixed;
+  top: 0px;
+  width: 100%;
 }
 
 .icon {
   font-size: 28px;
 }
-.iconCart{
+.iconCart {
   font-size: 28px;
 }
 
@@ -36,7 +37,7 @@ nav {
   list-style: none;
   cursor: pointer;
 }
- a {
+a {
   color: #b6ad90;
   text-decoration: none;
 }
@@ -85,8 +86,8 @@ button {
   width: 250px;
   margin: 20px auto;
   background-color: rgba(254, 255, 255, 0.1);
-      position: relative;
-    top: -560px;
+  position: relative;
+  top: -560px;
 }
 .row {
   width: 100%;
@@ -151,6 +152,5 @@ button {
 
   .router {
     width: 96%;
-
   }
 }
