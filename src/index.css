@@ -237,3 +237,8 @@ button {
     width: 88%;
   }
 }
+@media screen and (max-width: 820px){
+  .router{
+    width: 72%;
+  }
+}
