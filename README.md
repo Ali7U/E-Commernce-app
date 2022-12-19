@@ -1,3 +1,15 @@
+![Screenshot (144)](https://user-images.githubusercontent.com/113184805/208427787-12c5ae57-2382-4c45-a997-1caebfb53c2e.png)
+
+![Screenshot (145)](https://user-images.githubusercontent.com/113184805/208427810-05e1a78a-2fcb-4076-aeca-138e865af2b0.png)
+
+![localhost_3000_(iPhone 12 Pro) (14)](https://user-images.githubusercontent.com/113184805/208427848-67772b47-887c-4338-aa28-0c9d37fcbdc6.png)
+
+![localhost_3000_(iPhone 12 Pro) (16)](https://user-images.githubusercontent.com/113184805/208427883-000ef83a-9e7a-43dc-85aa-4ee544590464.png)
+
+![localhost_3000_(iPhone 12 Pro) (17)](https://user-images.githubusercontent.com/113184805/208427894-2e4dcfcd-42cf-4ab0-90c9-8cfba2e365ab.png)
+
+![localhost_3000_(iPhone 12 Pro) (18)](https://user-images.githubusercontent.com/113184805/208427903-56602088-e3b5-48c0-bf20-f634bdb734f0.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
