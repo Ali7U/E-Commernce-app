@@ -2,6 +2,8 @@
 
 ![Screenshot (145)](https://user-images.githubusercontent.com/113184805/208427810-05e1a78a-2fcb-4076-aeca-138e865af2b0.png)
 
+<img src="https://user-images.githubusercontent.com/113184805/199227482-bc3634ef-2b24-4337-ba10-0e768317e95f.png" width="250" height="450](https://user-images.githubusercontent.com/113184805/208427848-67772b47-887c-4338-aa28-0c9d37fcbdc6.png">
+
 ![localhost_3000_(iPhone 12 Pro) (14)](https://user-images.githubusercontent.com/113184805/208427848-67772b47-887c-4338-aa28-0c9d37fcbdc6.png)
 
 ![localhost_3000_(iPhone 12 Pro) (16)](https://user-images.githubusercontent.com/113184805/208427883-000ef83a-9e7a-43dc-85aa-4ee544590464.png)
